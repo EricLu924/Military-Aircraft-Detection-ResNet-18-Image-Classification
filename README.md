@@ -1,5 +1,5 @@
 # Military-Aircraft-Detection-ResNet-18-Image-Classification
-## 【 ResNet-18 Image Classification Framework with 5-Fold Cross Validation 】
+ 【 ResNet-18 Image Classification Framework with 5-Fold Cross Validation 】
 
 This repository provides a **complete PyTorch-based image classification training and evaluation pipeline** using **ResNet-18** with **5-Fold Cross Validation**.
 
