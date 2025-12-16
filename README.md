@@ -260,14 +260,11 @@ Please ensure proper evaluation before any production or clinical deployment.
 
 ---
 
-## ✉️ Contact & Extensions
+## ✉️ Experimental Results
 
-This framework can be easily extended with:
+<img width="1555" height="892" alt="image" src="https://github.com/user-attachments/assets/0471f70c-a1e5-4012-84f3-8d3363742418" />
+<img width="1789" height="272" alt="image" src="https://github.com/user-attachments/assets/1d254255-d361-4e3e-bf21-d66af46ec69e" />
 
-- Vision Transformers (ViT)
-- Class imbalance handling (e.g., focal loss)
-- Explainable AI (Grad-CAM, CAM)
-- nnU-Net or medical-specific pipelines
 
 ⭐ If you find this project useful, consider starring the repository!
 
